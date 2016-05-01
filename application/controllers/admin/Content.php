@@ -43,6 +43,10 @@ class Content extends Admin_Controller
 		$this->load->model('roles/role_model');
 		$this->load->model('users/user_model');
 		$this->lang->load('pending_tasks/pending_tasks');
+		Assets::add_js('jquery.dataTables.min.js');
+		Assets::add_js('bootstrap-dataTables.js');
+		Assets::add_css('datatable-rtl.css');
+        Assets::add_css('bootstrap-dataTables.css');
 
 		Template::set('toolbar_title', 'Dashboard');
 

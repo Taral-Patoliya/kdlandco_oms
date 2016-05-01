@@ -7,27 +7,42 @@ $('.notification a.close').click(function(e){
 
 /*
 	Check All Feature
-*/
-$(".check-all").click(function(){
-	$("table input[type=checkbox]").attr('checked', $(this).is(':checked'));
-});
+	*/
+	$(".check-all").click(function(){
+		$("table input[type=checkbox]").attr('checked', $(this).is(':checked'));
+	});
 
 /*
 	Dropdowns
-*/
-$('.dropdown-toggle').dropdown();
+	*/
+	$('.dropdown-toggle').dropdown();
 
 /*
 	Set focus on the first form field
-*/
-$(":input:visible:first").focus();
+	*/
+	$(":input:visible:first").focus();
 
 /*
 	Responsive Navigation
-*/
-$('.collapse').collapse();
+	*/
+	$('.collapse').collapse();
 
 /*
  Prevent elements classed with "no-link" from linking
-*/
+ */
 //$(".no-link").click(function(e){ e.preventDefault();	});
+$(document).ready(function(){
+	$.fn.dataTableExt.sErrMode = 'throw';
+	$(".datatable").each(function(){
+
+		var table = $(this).DataTable({
+			"aoColumnDefs": [
+			{ 'bSortable': false, 'aTargets': [ 0 ] }
+			]
+		});
+		
+	});
+
+	
+});
+
