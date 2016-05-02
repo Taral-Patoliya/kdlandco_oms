@@ -40,9 +40,20 @@ $(document).ready(function(){
 			{ 'bSortable': false, 'aTargets': [ 0 ] }
 			]
 		});
-		
 	});
 
+	$(".client-table").each(function(){
+		var len = ($("#clients tr:nth-child(2) td").length);
+
+		len = len-1;
+		
+		var tbl = $(this).DataTable({
+			"aoColumnDefs": [
+			{ 'bSortable': false, 'aTargets': [ 0 ] },
+			{ 'bSortable': false, 'aTargets': [ len ] }
+			]
+		});
+	});
 	
 });
 
