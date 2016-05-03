@@ -37,7 +37,7 @@ $(document).ready(function(){
 
 		var table = $(this).DataTable({
 			"aoColumnDefs": [
-			{ 'bSortable': false, 'aTargets': [ 0 ] }
+			{ 'bSortable': false, 'aTargets': [ 'column-check','view_details' ] }
 			]
 		});
 	});
@@ -49,8 +49,7 @@ $(document).ready(function(){
 		
 		var tbl = $(this).DataTable({
 			"aoColumnDefs": [
-			{ 'bSortable': false, 'aTargets': [ 0 ] },
-			{ 'bSortable': false, 'aTargets': [ len ] }
+			{ 'bSortable': false, 'aTargets': [ 'column-check','view_details' ] }
 			]
 		});
 	});
