@@ -4,6 +4,118 @@
 		"selected_items":
 		[
 			[
+				"cli",
+				"client"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"client",
+				"client"
+			],
+			[
+				"clien",
+				"clients"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"clie",
+				"clients_model"
+			],
+			[
+				"session_un",
+				"session_unset_userdata	CI - Session - Removing Session Data"
+			],
+			[
+				"clients",
+				"clientsi"
+			],
+			[
+				"set",
+				"set_message〔function〕"
+			],
+			[
+				"va",
+				"values"
+			],
+			[
+				"session",
+				"session_userdata	CI - Session - Retrieving Session Data"
+			],
+			[
+				"mass",
+				"massUpdateView"
+			],
+			[
+				"update",
+				"updateView"
+			],
+			[
+				"can",
+				"can_edit"
+			],
+			[
+				"_PO",
+				"$_POST〔variable〕"
+			],
+			[
+				"can_",
+				"$can_edit〔variable〕"
+			],
+			[
+				"clientsi_",
+				"clientsi_model"
+			],
+			[
+				"emal",
+				"emails_model"
+			],
+			[
+				"emai",
+				"emails"
+			],
+			[
+				"up",
+				"updates"
+			],
+			[
+				"pos",
+				"$post〔variable〕"
+			],
+			[
+				"uns",
+				"unset〔keyword〕"
+			],
+			[
+				"_POS",
+				"$_POST〔variable〕"
+			],
+			[
+				"form_drop",
+				"form_dropdown_without_wrapper〔function〕"
+			],
+			[
+				"form_dropdow",
+				"form_dropdown_without_wrapper"
+			],
+			[
+				"form_dro",
+				"form_dropdown〔function〕"
+			],
+			[
+				"opt",
+				"optindex"
+			],
+			[
+				"inp",
+				"inputtype"
+			],
+			[
 				"check",
 				"checked"
 			],
@@ -48,10 +160,6 @@
 				"find_all"
 			],
 			[
-				"emai",
-				"email	CI - Email Boilerplate"
-			],
-			[
 				"user",
 				"$users〔variable〕"
 			],
@@ -80,66 +188,26 @@
 	"buffers":
 	[
 		{
-			"file": "application/modules/clientsi/models/Clientsi_model.php",
+			"file": "application/modules/documents_manager/views/content/index.php",
 			"settings":
 			{
-				"buffer_size": 5590,
+				"buffer_size": 2790,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "bonfire/core/BF_Model.php",
+			"file": "application/modules/documents_manager/assets/js/documents_manager.js",
 			"settings":
 			{
-				"buffer_size": 53018,
+				"buffer_size": 1508,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "application/modules/clientsi/controllers/Content.php",
+			"file": "application/modules/documents_manager/controllers/Content.php",
 			"settings":
 			{
-				"buffer_size": 8259,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "application/modules/clientsi/views/content/view.php",
-			"settings":
-			{
-				"buffer_size": 15752,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "application/modules/clientsi/views/content/index.php",
-			"settings":
-			{
-				"buffer_size": 5168,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "application/modules/clientsi/views/content/edit.php",
-			"settings":
-			{
-				"buffer_size": 13678,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "application/modules/clientsi/views/content/create.php",
-			"settings":
-			{
-				"buffer_size": 13234,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "application/modules/clientsi/assets/js/clientsi.js",
-			"settings":
-			{
-				"buffer_size": 461,
+				"buffer_size": 8728,
 				"line_ending": "Unix"
 			}
 		}
@@ -152,9 +220,17 @@
 	"command_palette":
 	{
 		"height": 342.0,
-		"last_filter": "indet",
+		"last_filter": "inde",
 		"selected_items":
 		[
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
 			[
 				"indet",
 				"Indentation: Convert to Spaces"
@@ -173,14 +249,6 @@
 			],
 			[
 				"indent",
-				"Indentation: Reindent Lines"
-			],
-			[
-				"inde",
-				"Indentation: Reindent Lines"
-			],
-			[
-				"in",
 				"Indentation: Reindent Lines"
 			],
 			[
@@ -214,38 +282,56 @@
 	[
 		"/H/XAMPP/htdocs/kdlandco_oms",
 		"/H/XAMPP/htdocs/kdlandco_oms/application",
-		"/H/XAMPP/htdocs/kdlandco_oms/application/controllers/admin",
 		"/H/XAMPP/htdocs/kdlandco_oms/application/modules",
-		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/clientsi",
-		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/clientsi/assets",
-		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/clientsi/assets/js",
-		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/clientsi/controllers",
+		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/clientsi/language/english",
+		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/clientsi/models",
 		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/clientsi/views",
 		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/clientsi/views/content",
-		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/clientsi/views/developer",
-		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/pending_tasks",
-		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/pending_tasks/models"
+		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/documents_manager",
+		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/documents_manager/assets",
+		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/documents_manager/assets/js",
+		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/documents_manager/controllers",
+		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/documents_manager/language/english",
+		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/documents_manager/views",
+		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/documents_manager/views/content"
 	],
 	"file_history":
 	[
-		"/H/XAMPP/htdocs/kdlandco_oms/public/themes/admin/js/global.js",
-		"/H/XAMPP/htdocs/kdlandco_oms/bonfire/core/BF_Model.php",
-		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/clientsi/views/developer/index.php",
-		"/H/XAMPP/htdocs/kdlandco_oms/bonfire/docs/global_helpers.md",
-		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/clientsi/views/content/index.php",
-		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/clientsi/migrations/005_Add_clientsi_permissions.php",
+		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/documents_manager/controllers/Content.php",
 		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/clientsi/controllers/Content.php",
-		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/pending_tasks/models/Pending_tasks_model.php",
-		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/clientsi/views/content/create.php",
+		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/documents_manager/views/content/index.php",
+		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/documents_manager/views/content/edit.php",
+		"/H/XAMPP/htdocs/kdlandco_oms/public/themes/admin/footer.php",
+		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/documents_manager/assets/js/documents_manager.js",
+		"/H/XAMPP/htdocs/kdlandco_oms/public/themes/admin/js/global.js",
+		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/documents_manager/views/content/create.php",
+		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/documents_manager/models/Documents_manager_model.php",
 		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/clientsi/models/Clientsi_model.php",
-		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/clientsi/migrations/001_Install_clientsi_permissions.php",
+		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/clientsi/views/content/massUpdateView.php",
+		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/clientsi/views/content/view.php",
 		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/clientsi/views/content/edit.php",
+		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/clientsi/assets/js/clientsi.js",
+		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/documents_manager/language/english/documents_manager_lang.php",
+		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/clientsi/language/english/clientsi_lang.php",
+		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/clientsi/views/content/index.php",
+		"/H/XAMPP/htdocs/kdlandco_oms/bonfire/core/BF_Model.php",
+		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/clientsi/views/content/create.php",
+		"/C/Users/taral/AppData/Local/Temp/fz3temp-1/newcustomoption.phtml",
+		"/H/XAMPP/htdocs/kdlandco_oms/bonfire/ci3/helpers/form_helper.php",
+		"/H/XAMPP/htdocs/kdlandco_oms/bonfire/ci2/helpers/form_helper.php",
+		"/H/XAMPP/htdocs/kdlandco_oms/bonfire/helpers/BF_form_helper.php",
+		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/pending_tasks/language/english/pending_tasks_lang.php",
+		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/clientsi/views/developer/index.php",
+		"/C/Users/taral/AppData/Local/Temp/fz3temp-1/editcustomoption.phtml",
+		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/clientsi/config/config.php",
+		"/H/XAMPP/htdocs/kdlandco_oms/bonfire/docs/global_helpers.md",
+		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/clientsi/migrations/005_Add_clientsi_permissions.php",
+		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/pending_tasks/models/Pending_tasks_model.php",
+		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/clientsi/migrations/001_Install_clientsi_permissions.php",
 		"/C/Users/taral/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/clientsi/migrations/004_Modify_clients_group.php",
-		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/clientsi/assets/js/clientsi.js",
 		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/clientsi/migrations/002_Install_clients.php",
 		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/pending_tasks/migrations/003_table_update.php",
-		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/clientsi/language/english/clientsi_lang.php",
 		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/clientsi/migrations/003_Modify_clients.php",
 		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/pending_tasks/controllers/Content.php",
 		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/emails_ids/views/content/create.php",
@@ -253,7 +339,6 @@
 		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/pending_tasks/views/content/index.php",
 		"/H/XAMPP/htdocs/kdlandco_oms/application/controllers/admin/Content.php",
 		"/H/XAMPP/htdocs/kdlandco_oms/bonfire/modules/builder/controllers/Developer.php",
-		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/pending_tasks/language/english/pending_tasks_lang.php",
 		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/pending_tasks/views/content/create.php",
 		"/H/XAMPP/htdocs/kdlandco_oms/application/config/application.php",
 		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/pending_tasks/views/content/edit.php",
@@ -267,7 +352,6 @@
 		"/H/XAMPP/htdocs/kdlandco_oms/bonfire/modules/roles/controllers/Settings.php",
 		"/H/XAMPP/htdocs/kdlandco_oms/public/themes/admin/js/bootstrap-dataTables.js",
 		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/pending_tasks/views/content/dashboard.php",
-		"/H/XAMPP/htdocs/kdlandco_oms/public/themes/admin/footer.php",
 		"/H/XAMPP/htdocs/kdlandco_oms/public/themes/admin/two_left.php",
 		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/emails_ids/views/content/index.php",
 		"/H/XAMPP/htdocs/kdlandco_oms/application/modules/emails_ids/views/content/edit.php",
@@ -320,6 +404,7 @@
 		"height": 106.0,
 		"where_history":
 		[
+			"H:\\XAMPP\\htdocs\\kdlandco_oms",
 			"<current file>,H:\\XAMPP\\htdocs\\kdlandco_oms",
 			"<current file>",
 			""
@@ -330,6 +415,19 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"class=\"container-fluid footer\"",
+			"form",
+			"function form_open",
+			"delete",
+			"skip_validation",
+			"function form_dropdown",
+			"delegate",
+			"sort_order",
+			"add_new_defined_option",
+			"$error",
+			"function form_dropdown",
+			"form_dropdown",
+			"add_new_defined_option",
 			"array",
 			"anchor",
 			"href",
@@ -375,147 +473,24 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "application/modules/clientsi/models/Clientsi_model.php",
+					"file": "application/modules/documents_manager/views/content/index.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5590,
+						"buffer_size": 2790,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5561,
-								5561
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false,
-							"word_wrap": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 3921.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "bonfire/core/BF_Model.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 53018,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								10447,
-								10454
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 6241.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "application/modules/clientsi/controllers/Content.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 8259,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6416,
-								6416
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 3540.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "application/modules/clientsi/views/content/view.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 15752,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								365,
-								365
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"open_with_edit": true,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 7.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "application/modules/clientsi/views/content/index.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5168,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								709,
-								762
+								1419,
+								1702
 							]
 						],
 						"settings":
@@ -525,88 +500,27 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 120.0,
+						"translation.y": 300.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "application/modules/clientsi/views/content/edit.php",
+					"buffer": 1,
+					"file": "application/modules/documents_manager/assets/js/documents_manager.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 13678,
+						"buffer_size": 1508,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1170,
-								1117
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 397.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "application/modules/clientsi/views/content/create.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 13234,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1166,
-								1169
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 617.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "application/modules/clientsi/assets/js/clientsi.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 461,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								457,
-								457
+								1018,
+								550
 							]
 						],
 						"settings":
@@ -615,10 +529,40 @@
 							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
 						},
 						"translation.x": 0.0,
+						"translation.y": 297.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "application/modules/documents_manager/controllers/Content.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8728,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								975,
+								1017
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -673,7 +617,15 @@
 		"selected_items":
 		[
 			[
+				"global",
+				"public\\themes\\admin\\js\\global.js"
+			],
+			[
 				"bf",
+				"bonfire\\core\\BF_Model.php"
+			],
+			[
+				"bf_mode",
 				"bonfire\\core\\BF_Model.php"
 			],
 			[
@@ -681,8 +633,16 @@
 				"bonfire\\core\\BF_Model.php"
 			],
 			[
-				"global",
-				"public\\themes\\admin\\js\\global.js"
+				"helpers/form_helper.php",
+				"bonfire\\ci2\\helpers\\form_helper.php"
+			],
+			[
+				"client",
+				"application\\modules\\clientsi\\assets\\js\\clientsi.js"
+			],
+			[
+				"clients",
+				"application\\modules\\clientsi\\assets\\js\\clientsi.js"
 			],
 			[
 				"glob",

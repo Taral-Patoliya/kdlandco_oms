@@ -32,7 +32,9 @@ $('.notification a.close').click(function(e){
  */
 //$(".no-link").click(function(e){ e.preventDefault();	});
 $(document).ready(function(){
-	$.fn.dataTableExt.sErrMode = 'throw';
+	if($(".datatable").length){
+		$.fn.dataTableExt.sErrMode = 'throw';
+	}
 	$(".datatable").each(function(){
 
 		var table = $(this).DataTable({
